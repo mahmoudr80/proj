@@ -1,2 +1,2 @@
 # proj
-test repo
+test repo(repository)
